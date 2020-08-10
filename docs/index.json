@@ -1,0 +1,96 @@
+{
+  "fyber_address" : "Fyber, Wallstraße 9-13, 10179 Berlin, Germany",
+  "fyber_website" : "https://www.fyber.com",
+  "creation_date" : "August 10, 2020",
+  "skadnetwork_ids" : [ {
+    "dsp" : "Aarki Inc",
+    "skadnetwork_id" : "4FZDC2EVR5.skadnetwork"
+  }, {
+    "dsp" : "AdColony, Inc.",
+    "skadnetwork_id" : "4PFYVQ9L8R.skadnetwork"
+  }, {
+    "dsp" : "Appier Pte. Ltd.",
+    "skadnetwork_id" : "V72QYCH5UU.skadnetwork"
+  }, {
+    "dsp" : "Beeswax.io Corporation",
+    "skadnetwork_id" : "c6k4g5qg8m.skadnetwork"
+  }, {
+    "dsp" : "Brave People Ltd.",
+    "skadnetwork_id" : "252b5q8x7y.skadnetwork"
+  }, {
+    "dsp" : "Chartboost, Inc",
+    "skadnetwork_id" : "F38H382JLK.skadnetwork"
+  }, {
+    "dsp" : "Criteo SAS",
+    "skadnetwork_id" : "hs6bdukanm.skadnetwork"
+  }, {
+    "dsp" : "Criteo SAS (Manage)",
+    "skadnetwork_id" : "9RD848Q2BZ.skadnetwork"
+  }, {
+    "dsp" : "CrossInstall Inc",
+    "skadnetwork_id" : "prcb7njmu6.skadnetwork"
+  }, {
+    "dsp" : "Dataseat Ltd",
+    "skadnetwork_id" : "M8DBW4SV7C.skadnetwork"
+  }, {
+    "dsp" : "Inmobi",
+    "skadnetwork_id" : "WZMMZ9FP6W.skadnetwork"
+  }, {
+    "dsp" : "Jampp LTD",
+    "skadnetwork_id" : "YCLNXRL5PM.skadnetwork"
+  }, {
+    "dsp" : "LifeStreet Media",
+    "skadnetwork_id" : "t38b2kh725.skadnetwork"
+  }, {
+    "dsp" : "Liftoff Mobile, Inc",
+    "skadnetwork_id" : "7UG5ZH24HU.skadnetwork"
+  }, {
+    "dsp" : "Mintegral International Limited",
+    "skadnetwork_id" : "KBD757YWX3.skadnetwork"
+  }, {
+    "dsp" : "Moloco, Inc",
+    "skadnetwork_id" : "9T245VHMPL.skadnetwork"
+  }, {
+    "dsp" : "PubNative GmbH",
+    "skadnetwork_id" : "TL55SBB4FM.skadnetwork"
+  }, {
+    "dsp" : "RTB Marketing and Tech Services LTD",
+    "skadnetwork_id" : "8s468mfl3y.skadnetwork"
+  }, {
+    "dsp" : "Realtime Technologies GmbH",
+    "skadnetwork_id" : "4468km3ulz.skadnetwork"
+  }, {
+    "dsp" : "Remerge GmbH",
+    "skadnetwork_id" : "2U9PT9HC89.skadnetwork"
+  }, {
+    "dsp" : "ScaleMonk Inc.",
+    "skadnetwork_id" : "av6w8kgt66.skadnetwork"
+  }, {
+    "dsp" : "Sift Media, Inc",
+    "skadnetwork_id" : "KLF5C3L5U5.skadnetwork"
+  }, {
+    "dsp" : "Singular Labs, Inc.",
+    "skadnetwork_id" : "DZG6XY7PWJ.skadnetwork"
+  }, {
+    "dsp" : "Singular Labs, Inc.",
+    "skadnetwork_id" : "y45688jllp.skadnetwork"
+  }, {
+    "dsp" : "Singular Labs, Inc.",
+    "skadnetwork_id" : "Hdw39hrw9y.skadnetwork"
+  }, {
+    "dsp" : "Smadex S.L",
+    "skadnetwork_id" : "ppxm28t8ap.skadnetwork"
+  }, {
+    "dsp" : "Spotad Ltd.",
+    "skadnetwork_id" : "f73kdq92p3.skadnetwork"
+  }, {
+    "dsp" : "StartApp Inc",
+    "skadnetwork_id" : "5l3tpt7t6e.skadnetwork"
+  }, {
+    "dsp" : "The Trade Desk",
+    "skadnetwork_id" : "uw77j35x4d.skadnetwork"
+  }, {
+    "dsp" : "Triapodi LTD.",
+    "skadnetwork_id" : "mlmmfzh3r3.skadnetwork"
+  } ]
+}
