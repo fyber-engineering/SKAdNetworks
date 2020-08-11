@@ -1,96 +1,125 @@
 {
   "fyber_address" : "Fyber, Wallstraße 9-13, 10179 Berlin, Germany",
   "fyber_website" : "https://www.fyber.com",
-  "creation_date" : "August 10, 2020",
   "skadnetwork_ids" : [ {
     "dsp" : "Aarki Inc",
-    "skadnetwork_id" : "4FZDC2EVR5.skadnetwork"
+    "skadnetwork_id" : "4FZDC2EVR5.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "AdColony, Inc.",
-    "skadnetwork_id" : "4PFYVQ9L8R.skadnetwork"
+    "skadnetwork_id" : "4PFYVQ9L8R.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Appier Pte. Ltd.",
-    "skadnetwork_id" : "V72QYCH5UU.skadnetwork"
+    "skadnetwork_id" : "V72QYCH5UU.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Beeswax.io Corporation",
-    "skadnetwork_id" : "c6k4g5qg8m.skadnetwork"
+    "skadnetwork_id" : "c6k4g5qg8m.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Brave People Ltd.",
-    "skadnetwork_id" : "252b5q8x7y.skadnetwork"
+    "skadnetwork_id" : "252b5q8x7y.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Chartboost, Inc",
-    "skadnetwork_id" : "F38H382JLK.skadnetwork"
+    "skadnetwork_id" : "F38H382JLK.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Criteo SAS",
-    "skadnetwork_id" : "hs6bdukanm.skadnetwork"
+    "skadnetwork_id" : "hs6bdukanm.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Criteo SAS (Manage)",
-    "skadnetwork_id" : "9RD848Q2BZ.skadnetwork"
+    "skadnetwork_id" : "9RD848Q2BZ.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "CrossInstall Inc",
-    "skadnetwork_id" : "prcb7njmu6.skadnetwork"
+    "skadnetwork_id" : "prcb7njmu6.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Dataseat Ltd",
-    "skadnetwork_id" : "M8DBW4SV7C.skadnetwork"
+    "skadnetwork_id" : "M8DBW4SV7C.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Inmobi",
-    "skadnetwork_id" : "WZMMZ9FP6W.skadnetwork"
+    "skadnetwork_id" : "WZMMZ9FP6W.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Jampp LTD",
-    "skadnetwork_id" : "YCLNXRL5PM.skadnetwork"
+    "skadnetwork_id" : "YCLNXRL5PM.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "LifeStreet Media",
-    "skadnetwork_id" : "t38b2kh725.skadnetwork"
+    "skadnetwork_id" : "t38b2kh725.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Liftoff Mobile, Inc",
-    "skadnetwork_id" : "7UG5ZH24HU.skadnetwork"
+    "skadnetwork_id" : "7UG5ZH24HU.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Mintegral International Limited",
-    "skadnetwork_id" : "KBD757YWX3.skadnetwork"
+    "skadnetwork_id" : "KBD757YWX3.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Moloco, Inc",
-    "skadnetwork_id" : "9T245VHMPL.skadnetwork"
+    "skadnetwork_id" : "9T245VHMPL.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "PubNative GmbH",
-    "skadnetwork_id" : "TL55SBB4FM.skadnetwork"
+    "skadnetwork_id" : "TL55SBB4FM.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "RTB Marketing and Tech Services LTD",
-    "skadnetwork_id" : "8s468mfl3y.skadnetwork"
+    "skadnetwork_id" : "8s468mfl3y.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Realtime Technologies GmbH",
-    "skadnetwork_id" : "4468km3ulz.skadnetwork"
+    "skadnetwork_id" : "4468km3ulz.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Remerge GmbH",
-    "skadnetwork_id" : "2U9PT9HC89.skadnetwork"
+    "skadnetwork_id" : "2U9PT9HC89.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "ScaleMonk Inc.",
-    "skadnetwork_id" : "av6w8kgt66.skadnetwork"
+    "skadnetwork_id" : "av6w8kgt66.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Sift Media, Inc",
-    "skadnetwork_id" : "KLF5C3L5U5.skadnetwork"
+    "skadnetwork_id" : "KLF5C3L5U5.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Singular Labs, Inc.",
-    "skadnetwork_id" : "DZG6XY7PWJ.skadnetwork"
+    "skadnetwork_id" : "DZG6XY7PWJ.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Singular Labs, Inc.",
-    "skadnetwork_id" : "y45688jllp.skadnetwork"
+    "skadnetwork_id" : "y45688jllp.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Singular Labs, Inc.",
-    "skadnetwork_id" : "Hdw39hrw9y.skadnetwork"
+    "skadnetwork_id" : "Hdw39hrw9y.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Smadex S.L",
-    "skadnetwork_id" : "ppxm28t8ap.skadnetwork"
+    "skadnetwork_id" : "ppxm28t8ap.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Spotad Ltd.",
-    "skadnetwork_id" : "f73kdq92p3.skadnetwork"
+    "skadnetwork_id" : "f73kdq92p3.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "StartApp Inc",
-    "skadnetwork_id" : "5l3tpt7t6e.skadnetwork"
+    "skadnetwork_id" : "5l3tpt7t6e.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "The Trade Desk",
-    "skadnetwork_id" : "uw77j35x4d.skadnetwork"
+    "skadnetwork_id" : "uw77j35x4d.skadnetwork",
+    "creation_date" : "August 11, 2020"
   }, {
     "dsp" : "Triapodi LTD.",
-    "skadnetwork_id" : "mlmmfzh3r3.skadnetwork"
+    "skadnetwork_id" : "mlmmfzh3r3.skadnetwork",
+    "creation_date" : "August 11, 2020"
   } ]
 }
