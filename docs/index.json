@@ -2,124 +2,124 @@
   "fyber_address" : "Fyber, Wallstraße 9-13, 10179 Berlin, Germany",
   "fyber_website" : "https://www.fyber.com",
   "skadnetwork_ids" : [ {
-    "dsp" : "Aarki Inc",
+    "buyer" : "Aarki Inc",
     "skadnetwork_id" : "4FZDC2EVR5.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "AdColony, Inc.",
+    "buyer" : "AdColony, Inc.",
     "skadnetwork_id" : "4PFYVQ9L8R.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Appier Pte. Ltd.",
+    "buyer" : "Appier Pte. Ltd.",
     "skadnetwork_id" : "V72QYCH5UU.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Beeswax.io Corporation",
+    "buyer" : "Beeswax.io Corporation",
     "skadnetwork_id" : "c6k4g5qg8m.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Brave People Ltd.",
+    "buyer" : "Brave People Ltd.",
     "skadnetwork_id" : "252b5q8x7y.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Chartboost, Inc",
+    "buyer" : "Chartboost, Inc",
     "skadnetwork_id" : "F38H382JLK.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Criteo SAS",
+    "buyer" : "Criteo SAS",
     "skadnetwork_id" : "hs6bdukanm.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Criteo SAS (Manage)",
+    "buyer" : "Criteo SAS (Manage)",
     "skadnetwork_id" : "9RD848Q2BZ.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "CrossInstall Inc",
+    "buyer" : "CrossInstall Inc",
     "skadnetwork_id" : "prcb7njmu6.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Dataseat Ltd",
+    "buyer" : "Dataseat Ltd",
     "skadnetwork_id" : "M8DBW4SV7C.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Inmobi",
+    "buyer" : "Inmobi",
     "skadnetwork_id" : "WZMMZ9FP6W.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Jampp LTD",
+    "buyer" : "Jampp LTD",
     "skadnetwork_id" : "YCLNXRL5PM.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "LifeStreet Media",
+    "buyer" : "LifeStreet Media",
     "skadnetwork_id" : "t38b2kh725.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Liftoff Mobile, Inc",
+    "buyer" : "Liftoff Mobile, Inc",
     "skadnetwork_id" : "7UG5ZH24HU.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Mintegral International Limited",
+    "buyer" : "Mintegral International Limited",
     "skadnetwork_id" : "KBD757YWX3.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Moloco, Inc",
+    "buyer" : "Moloco, Inc",
     "skadnetwork_id" : "9T245VHMPL.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "PubNative GmbH",
+    "buyer" : "PubNative GmbH",
     "skadnetwork_id" : "TL55SBB4FM.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "RTB Marketing and Tech Services LTD",
+    "buyer" : "RTB Marketing and Tech Services LTD",
     "skadnetwork_id" : "8s468mfl3y.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Realtime Technologies GmbH",
+    "buyer" : "Realtime Technologies GmbH",
     "skadnetwork_id" : "4468km3ulz.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Remerge GmbH",
+    "buyer" : "Remerge GmbH",
     "skadnetwork_id" : "2U9PT9HC89.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "ScaleMonk Inc.",
+    "buyer" : "ScaleMonk Inc.",
     "skadnetwork_id" : "av6w8kgt66.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Sift Media, Inc",
+    "buyer" : "Sift Media, Inc",
     "skadnetwork_id" : "KLF5C3L5U5.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Singular Labs, Inc.",
+    "buyer" : "Singular Labs, Inc.",
     "skadnetwork_id" : "DZG6XY7PWJ.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Singular Labs, Inc.",
+    "buyer" : "Singular Labs, Inc.",
     "skadnetwork_id" : "y45688jllp.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Singular Labs, Inc.",
+    "buyer" : "Singular Labs, Inc.",
     "skadnetwork_id" : "Hdw39hrw9y.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Smadex S.L",
+    "buyer" : "Smadex S.L",
     "skadnetwork_id" : "ppxm28t8ap.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Spotad Ltd.",
+    "buyer" : "Spotad Ltd.",
     "skadnetwork_id" : "f73kdq92p3.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "StartApp Inc",
+    "buyer" : "StartApp Inc",
     "skadnetwork_id" : "5l3tpt7t6e.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "The Trade Desk",
+    "buyer" : "The Trade Desk",
     "skadnetwork_id" : "uw77j35x4d.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   }, {
-    "dsp" : "Triapodi LTD.",
+    "buyer" : "Triapodi LTD.",
     "skadnetwork_id" : "mlmmfzh3r3.skadnetwork",
-    "creation_date" : "August 11, 2020"
+    "creation_date" : "August 14, 2020"
   } ]
 }
