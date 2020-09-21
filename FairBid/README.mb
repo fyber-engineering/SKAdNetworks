@@ -1,3 +1,0 @@
-*SKAdnetwork PLIST for FairBid*
-
-This directory containes that plist entries for each network integrated with FairBid mediation platform. This is the basis for the plist generator in [FairBid Documentation](https://developer.fyber.com/hc/en-us/articles/360010077777-Supported-Networks#platform-ios)
