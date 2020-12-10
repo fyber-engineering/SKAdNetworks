@@ -1,14 +1,15 @@
 {
-	"adcolony" : "AdColony",
-	"admob" : "Google-Mobile-Ads-SDK",
-	"applovin" : "AppLovinSDK",
-	"chartboost" : "ChartboostSDK",
-	"facebook" : "FBAudienceNetwork",
-	"inmobi" : "InMobiSDK",
-	"iron_source" : "IronSourceSDK",
-	"tapjoy" : "TapjoySDK",
-	"unityads" : "UnityAds",
-	"verizon" : "Verizon-Ads-StandardEdition",
-	"vungle" : "VungleSDK-iOS",
-	"fyber" : "FairBidSDK"
+  "adcolony": "AdColony",
+  "admob": "Google-Mobile-Ads-SDK",
+  "applovin": "AppLovinSDK",
+  "chartboost": "ChartboostSDK",
+  "facebook": "FBAudienceNetwork",
+  "inmobi": "InMobiSDK",
+  "iron_source": "IronSourceSDK",
+  "snap": "SAKSDK",
+  "tapjoy": "TapjoySDK",
+  "unityads": "UnityAds",
+  "verizon": "Verizon-Ads-StandardEdition",
+  "vungle": "VungleSDK-iOS",
+  "fyber": "FairBidSDK"
 }
