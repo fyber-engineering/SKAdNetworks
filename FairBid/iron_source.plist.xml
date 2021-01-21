@@ -124,6 +124,11 @@
 				<key>SKAdNetworkIdentifier</key>
 				<string>3rd42ekr43.skadnetwork</string>
 			</dict>
+			<dict>
+                                <!--- Ironsource -->
+                                <key>SKAdNetworkIdentifier</key>
+                                <string>su67r6k2v3.skadnetwork</string>
+                        </dict>
 		</array>
 	</dict>
 </plist>
