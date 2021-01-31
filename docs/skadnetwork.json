@@ -200,5 +200,9 @@
         "entity_domain": "appreciate.mobi",
         "skadnetwork_id": "mlmmfzh3r3.skadnetwork",
         "creation_date": "2020-08-14T00:00:00.000Z"
+    }, {
+        "entity_name": "BidSlash",
+        "skadnetwork_id": "g28c52eehv.skadnetwork",
+        "creation_date": "2021-01-31T00:00:00.000Z"
     }]
 }
