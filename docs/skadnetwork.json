@@ -210,5 +210,10 @@
         "entity_domain": "rtbhouse.com",
         "skadnetwork_id": "8s468mfl3y.skadnetwork",
         "creation_date": "2021-02-09T00:00:00.000Z"
+    }, {
+        "entity_name": "Affle International Pte. Ltd.",
+        "entity_domain": "affle.com",
+        "skadnetwork_id": "5a6flpkh64.skadnetwork",
+        "creation_date": "2021-02-09T00:00:00.000Z"
     }]
 }
