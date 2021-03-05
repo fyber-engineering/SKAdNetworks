@@ -10,5 +10,8 @@
 	"unityads" : "UnityAds",
 	"verizon" : "Verizon-Ads-StandardEdition",
 	"vungle" : "VungleSDK-iOS",
-	"fyber" : "FairBidSDK"
+	"fyber" : "FairBidSDK",
+	"mytarget" :"myTargetSDK",
+	"snap" :"snap",
+	"mintegral" :"mintegral"
 }
