@@ -176,6 +176,10 @@
 			<key>SKAdNetworkIdentifier</key>
 			<string>g28c52eehv.skadnetwork</string>
 		</dict>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>pwa73g5rt2.skadnetwork</string>
+		</dict>
 	</array>
 </dict>
 </plist>
