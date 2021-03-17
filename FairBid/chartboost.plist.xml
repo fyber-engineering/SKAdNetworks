@@ -272,11 +272,14 @@
 				<key>SKAdNetworkIdentifier</key>
 				<string>x44k69ngh6.skadnetwork</string>
 			</dict>
-
-
-
-			
-			
+			<dict>
+				<key>SKAdNetworkIdentifier</key>
+				<string>pwa73g5rt2.skadnetwork</string>
+			</dict>
+			<dict>
+				<key>SKAdNetworkIdentifier</key>
+				<string>s39g8k73mm.skadnetwork</string>
+			</dict>
 		</array>
 	</dict>
 </plist>
