@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist
+  PUBLIC '-//Apple//DTD PLIST 1.0//EN'
+  'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
 <plist version="1.0">
     <dict>
         <key>SKAdNetworkItems</key>
@@ -218,6 +220,16 @@
             <dict>
                 <key>SKAdNetworkIdentifier</key>
                 <string>s39g8k73mm.skadnetwork</string>
+            </dict>
+            <dict>
+                <!--  Tencent  -->
+                <key>SKAdNetworkIdentifier</key>
+                <string>f7s53z58qe.skadnetwork</string>
+            </dict>
+            <dict>
+                <!--  Click Tech Limited  -->
+                <key>SKAdNetworkIdentifier</key>
+                <string>32z4fx6l9h.skadnetwork</string>
             </dict>
         </array>
     </dict>
