@@ -219,6 +219,16 @@
                 <key>SKAdNetworkIdentifier</key>
                 <string>s39g8k73mm.skadnetwork</string>
             </dict>
+            <dict>
+                <!--  Tencent  -->
+                <key>SKAdNetworkIdentifier</key>
+                <string>f7s53z58qe.skadnetwork</string>
+            </dict>
+            <dict>
+                <!--  Click Tech Limited  -->
+                <key>SKAdNetworkIdentifier</key>
+                <string>32z4fx6l9h.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
