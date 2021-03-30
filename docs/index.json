@@ -220,6 +220,11 @@
         "entity_domain": "yandex.com",
         "skadnetwork_id": "zq492l623r.skadnetwork",
         "creation_date": "2021-03-25T00:00:00.000Z"
+    }, {
+        "entity_name": "Bytedance Pte. Ltd",
+        "entity_domain": "pangleglobal.com",
+        "skadnetwork_id": "22mmun2rn5.skadnetwork",
+        "creation_date": "2021-03-30T00:00:00.000Z"
     }
     ]
 }
