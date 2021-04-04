@@ -168,7 +168,30 @@
                 <key>SKAdNetworkIdentifier</key>
                 <string>mlmmfzh3r3.skadnetwork</string>
             </dict>
-            
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>cg4yq2srnc.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>9rd848q2bz.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>7rz58n8ntl.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>32z4fx6l9h.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>2fnua5tdw4.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>klf5c3l5u5.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
