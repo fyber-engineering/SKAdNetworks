@@ -88,6 +88,30 @@
                 <key>SKAdNetworkIdentifier</key>
                 <string>ydx93a7ass.skadnetwork</string>
             </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>cg4yq2srnc.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>klf5c3l5u5.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>7rz58n8ntl.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>2fnua5tdw4.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>uw77j35x4d.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>3qcr597p9d.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
