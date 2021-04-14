@@ -112,6 +112,50 @@
                <key>SKAdNetworkIdentifier</key>
                <string>3qcr597p9d.skadnetwork</string>
             </dict>
+                        <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>cj5566h2ga.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>3sh42y64q3.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>mtkv5xtk9e.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>k674qkevps.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>v72qych5uu.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>g28c52eehv.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>ppxm28t8ap.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>578prtvx9j.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>c6k4g5qg8m.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>9nlqeag3gk.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>3rd42ekr43.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
