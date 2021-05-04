@@ -30,7 +30,14 @@
         "entity_domain": "appier.com",
         "skadnetwork_id": "v72qych5uu.skadnetwork",
         "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
+    }, 
+    {
+			"entity_name": "Appier Pte. Ltd.",
+			"entity_domain": "appier.com",
+			"skadnetwork_id": "x8uqf25wch.skadnetwork",
+			"creation_date": "2021-05-04T00:00:00.000Z"
+	},
+    {
         "entity_name": "Beeswax.io Corporation",
         "skadnetwork_id": "c6k4g5qg8m.skadnetwork",
         "creation_date": "2020-08-14T00:00:00.000Z"
