@@ -1,250 +1,249 @@
 {
-    "company_name": "Fyber",
-    "company_address": "Fyber, Wallstraße 9-13, 10179 Berlin, Germany",
-    "company_domain": "https://www.fyber.com",
-    "skadnetwork_ids": [{
-        "entity_name": "Adikteev",
-        "skadnetwork_id": "ydx93a7ass.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Aarki Inc",
-        "skadnetwork_id": "4fzdc2evr5.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "AdColony, Inc.",
-        "entity_domain": "adcolony.com",
-        "skadnetwork_id": "4pfyvq9l8r.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "AdTheorent",
-        "entity_domain": "adtheorent.com",
-        "skadnetwork_id": "cg4yq2srnc.skadnetwork",
-        "creation_date": "2020-10-31T22:00:00.000Z"
-    }, {
-        "entity_name": "Affle International Pte. Ltd.",
-        "entity_domain": "affle.com",
-        "skadnetwork_id": "5a6flpkh64.skadnetwork",
-        "creation_date": "2020-09-03T12:08:13.000Z"
-    }, {
-        "entity_name": "Appier Pte. Ltd.",
-        "entity_domain": "appier.com",
-        "skadnetwork_id": "v72qych5uu.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Appier Pte. Ltd.",
-        "entity_domain": "appier.com",
-        "skadnetwork_id": "x8uqf25wch.skadnetwork",
-        "creation_date": "2021-05-04T00:00:00.000Z"
-    }, {
-        "entity_name": "Beeswax.io Corporation",
-        "skadnetwork_id": "c6k4g5qg8m.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "BidMachine, Inc",
-        "entity_domain": "bidmachine.io",
-        "skadnetwork_id": "wg4vff78zm.skadnetwork",
-        "creation_date": "2020-08-19T00:00:00.000Z"
-    }, {
-			"entity_name": "LiquidM",
-			"entity_domain": "LiquidM.com",
-			"skadnetwork_id": "rx5hdcabgc.skadnetwork",
-			"creation_date": "2020-08-19T00:00:00.000Z"
+	"company_name": "Fyber",
+	"company_address": "Fyber, Wallstraße 9-13, 10179 Berlin, Germany",
+	"company_domain": "https://www.fyber.com",
+	"skadnetwork_ids": [{
+		"entity_name": "Adikteev",
+		"skadnetwork_id": "ydx93a7ass.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
 	}, {
-			"entity_name": "Verizon Media",
-			"entity_domain": "verizon.com",
-			"skadnetwork_id": "e5fvkxwrpn.skadnetwork",
-			"creation_date": "2020-08-19T00:00:00.000Z"
+		"entity_name": "Aarki Inc",
+		"skadnetwork_id": "4fzdc2evr5.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
 	}, {
-			"entity_name": "Yeahmobi",
-			"entity_domain": "Yeahmobi.com",
-			"skadnetwork_id": "32z4fx6l9h.skadnetwork",
-			"creation_date": "2020-08-19T00:00:00.000Z"
+		"entity_name": "AdColony, Inc.",
+		"entity_domain": "adcolony.com",
+		"skadnetwork_id": "4pfyvq9l8r.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
 	}, {
-        "entity_name": "Biga bid Media LTD",
-        "entity_domain": "bigabid.com",
-        "skadnetwork_id": "3qy4746246.skadnetwork",
-        "creation_date": "2020-08-25T00:00:00.000Z"
-    }, {
-        "entity_name": "Brave People Ltd.",
-        "entity_domain": "thebrave.io",
-        "skadnetwork_id": "252b5q8x7y.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Chartboost, Inc",
-        "skadnetwork_id": "f38h382jlk.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Cheetah Medialink HK Limited",
-        "entity_domain": "cmcm.com",
-        "skadnetwork_id": "24t9a8vw3c.skadnetwork",
-        "creation_date": "2020-09-03T12:05:16.000Z"
-    }, {
-        "entity_name": "Criteo SAS",
-        "skadnetwork_id": "hs6bdukanm.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Criteo SAS (Manage)",
-        "skadnetwork_id": "9rd848q2bz.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "CrossInstall Inc",
-        "entity_domain": "crossinstall.com",
-        "skadnetwork_id": "prcb7njmu6.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Dataseat Ltd",
-        "entity_domain": "dataseat.com",
-        "skadnetwork_id": "m8dbw4sv7c.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Fyber",
-        "entity_domain": "fyber.com",
-        "skadnetwork_id": "9g2aggbj52.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Inmobi",
-        "skadnetwork_id": "wzmmz9fp6w.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Jampp LTD",
-        "entity_domain": "jampp.com",
-        "skadnetwork_id": "yclnxrl5pm.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "LifeStreet Media",
-        "skadnetwork_id": "t38b2kh725.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Liftoff Mobile, Inc",
-        "skadnetwork_id": "7ug5zh24hu.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "LoopMe Ltd.",
-        "entity_domain": "loopme.com",
-        "skadnetwork_id": "5lm9lj6jb7.skadnetwork",
-        "creation_date": "2020-09-03T12:02:16.000Z"
-    }, {
-        "entity_name": "MARS TECHNOLOGIES LTD",
-        "entity_domain": "mars.media",
-        "skadnetwork_id": "ejvt5qm6ak.skadnetwork",
-        "creation_date": "2020-08-16T00:00:00.000Z"
-    }, {
-        "entity_name": "Media Smart",
-        "entity_domain": "mediasmart.io",
-        "skadnetwork_id": "7rz58n8ntl.skadnetwork",
-        "creation_date": "2020-08-19T00:00:00.000Z"
-    }, {
-        "entity_name": "Mintegral International Limited",
-        "entity_domain": "mintegral.com",
-        "skadnetwork_id": "kbd757ywx3.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Moloco, Inc",
-        "entity_domain": "molocoads.com",
-        "skadnetwork_id": "9t245vhmpl.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "O.P VIsion LTD dba persona.ly",
-        "entity_domain": "persona.ly",
-        "skadnetwork_id": "44jx6755aq.skadnetwork",
-        "creation_date": "2020-08-23T00:00:00.000Z"
-    }, {
-        "entity_name": "PubNative GmbH",
-        "entity_domain": "pubnative.net",
-        "skadnetwork_id": "tl55sbb4fm.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "RTB Marketing and Tech Services LTD",
-        "entity_domain": "rtbhouse.com",
-        "skadnetwork_id": "8s468mfl3y.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Realtime Technologies GmbH",
-        "entity_domain": "kayzen.io",
-        "skadnetwork_id": "4468km3ulz.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Remerge GmbH",
-        "entity_domain": "remerge.io",
-        "skadnetwork_id": "2u9pt9hc89.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "ScaleMonk Inc.",
-        "entity_domain": "scalemonk.com",
-        "skadnetwork_id": "av6w8kgt66.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Sift Media, Inc",
-        "entity_domain": "sift.co",
-        "skadnetwork_id": "klf5c3l5u5.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Singular Labs, Inc.",
-        "skadnetwork_id": "hdw39hrw9y.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Singular Labs, Inc.",
-        "skadnetwork_id": "y45688jllp.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Singular Labs, Inc.",
-        "skadnetwork_id": "dzg6xy7pwj.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "SiteScout c/o Centro Inc.",
-        "entity_domain": "https://www.centro.net/",
-        "skadnetwork_id": "3sh42y64q3.skadnetwork",
-        "creation_date": "2020-09-03T12:09:20.000Z"
-    }, {
-        "entity_name": "Smadex S.L",
-        "entity_domain": "smadex.com",
-        "skadnetwork_id": "ppxm28t8ap.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Spotad Ltd.",
-        "entity_domain": "spotad.co",
-        "skadnetwork_id": "f73kdq92p3.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "StartApp Inc",
-        "entity_domain": "startapp.com",
-        "skadnetwork_id": "5l3tpt7t6e.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "The Trade Desk",
-        "entity_domain": "thetradedesk.com",
-        "skadnetwork_id": "uw77j35x4d.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Triapodi LTD.",
-        "entity_domain": "appreciate.mobi",
-        "skadnetwork_id": "mlmmfzh3r3.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    }, {
-        "entity_name": "Triapodi LTD.",
-        "entity_domain": "appreciate.mobi",
-        "skadnetwork_id": "6g9af3uyq4.skadnetwork",
-        "creation_date": "2020-08-14T00:00:00.000Z"
-    },{
-        "entity_name": "BidSlash",
-        "entity_domain": "zynga.com",
-        "skadnetwork_id": "g28c52eehv.skadnetwork",
-        "creation_date": "2021-01-31T00:00:00.000Z"
-    }, {
-        "entity_name": "RhythmOne",
-        "entity_domain": "rhythmone.com",
-        "skadnetwork_id": "pwa73g5rt2.skadnetwork",
-        "creation_date": "2021-03-16T00:00:00.000Z"
-    }, {
-        "entity_name": "Yandex Europe AG",
-        "entity_domain": "yandex.com",
-        "skadnetwork_id": "zq492l623r.skadnetwork",
-        "creation_date": "2021-03-25T00:00:00.000Z"
-    }, {
-        "entity_name": "Bytedance Pte. Ltd",
-        "entity_domain": "pangleglobal.com",
-        "skadnetwork_id": "22mmun2rn5.skadnetwork",
-        "creation_date": "2021-03-30T00:00:00.000Z"
-    }
-    ]
+		"entity_name": "AdTheorent",
+		"entity_domain": "adtheorent.com",
+		"skadnetwork_id": "cg4yq2srnc.skadnetwork",
+		"creation_date": "2020-10-31T22:00:00.000Z"
+	}, {
+		"entity_name": "Affle International Pte. Ltd.",
+		"entity_domain": "affle.com",
+		"skadnetwork_id": "5a6flpkh64.skadnetwork",
+		"creation_date": "2020-09-03T12:08:13.000Z"
+	}, {
+		"entity_name": "Appier Pte. Ltd.",
+		"entity_domain": "appier.com",
+		"skadnetwork_id": "v72qych5uu.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Appier Pte. Ltd.",
+		"entity_domain": "appier.com",
+		"skadnetwork_id": "x8uqf25wch.skadnetwork",
+		"creation_date": "2021-05-04T00:00:00.000Z"
+	}, {
+		"entity_name": "Beeswax.io Corporation",
+		"skadnetwork_id": "c6k4g5qg8m.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "BidMachine, Inc",
+		"entity_domain": "bidmachine.io",
+		"skadnetwork_id": "wg4vff78zm.skadnetwork",
+		"creation_date": "2020-08-19T00:00:00.000Z"
+	}, {
+		"entity_name": "LiquidM",
+		"entity_domain": "LiquidM.com",
+		"skadnetwork_id": "rx5hdcabgc.skadnetwork",
+		"creation_date": "2020-08-19T00:00:00.000Z"
+	}, {
+		"entity_name": "Verizon Media",
+		"entity_domain": "verizon.com",
+		"skadnetwork_id": "e5fvkxwrpn.skadnetwork",
+		"creation_date": "2020-08-19T00:00:00.000Z"
+	}, {
+		"entity_name": "Yeahmobi",
+		"entity_domain": "Yeahmobi.com",
+		"skadnetwork_id": "32z4fx6l9h.skadnetwork",
+		"creation_date": "2020-08-19T00:00:00.000Z"
+	}, {
+		"entity_name": "Biga bid Media LTD",
+		"entity_domain": "bigabid.com",
+		"skadnetwork_id": "3qy4746246.skadnetwork",
+		"creation_date": "2020-08-25T00:00:00.000Z"
+	}, {
+		"entity_name": "Brave People Ltd.",
+		"entity_domain": "thebrave.io",
+		"skadnetwork_id": "252b5q8x7y.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Chartboost, Inc",
+		"skadnetwork_id": "f38h382jlk.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Cheetah Medialink HK Limited",
+		"entity_domain": "cmcm.com",
+		"skadnetwork_id": "24t9a8vw3c.skadnetwork",
+		"creation_date": "2020-09-03T12:05:16.000Z"
+	}, {
+		"entity_name": "Criteo SAS",
+		"skadnetwork_id": "hs6bdukanm.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Criteo SAS (Manage)",
+		"skadnetwork_id": "9rd848q2bz.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "CrossInstall Inc",
+		"entity_domain": "crossinstall.com",
+		"skadnetwork_id": "prcb7njmu6.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Dataseat Ltd",
+		"entity_domain": "dataseat.com",
+		"skadnetwork_id": "m8dbw4sv7c.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Fyber",
+		"entity_domain": "fyber.com",
+		"skadnetwork_id": "9g2aggbj52.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Inmobi",
+		"skadnetwork_id": "wzmmz9fp6w.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Jampp LTD",
+		"entity_domain": "jampp.com",
+		"skadnetwork_id": "yclnxrl5pm.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "LifeStreet Media",
+		"skadnetwork_id": "t38b2kh725.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Liftoff Mobile, Inc",
+		"skadnetwork_id": "7ug5zh24hu.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "LoopMe Ltd.",
+		"entity_domain": "loopme.com",
+		"skadnetwork_id": "5lm9lj6jb7.skadnetwork",
+		"creation_date": "2020-09-03T12:02:16.000Z"
+	}, {
+		"entity_name": "MARS TECHNOLOGIES LTD",
+		"entity_domain": "mars.media",
+		"skadnetwork_id": "ejvt5qm6ak.skadnetwork",
+		"creation_date": "2020-08-16T00:00:00.000Z"
+	}, {
+		"entity_name": "Media Smart",
+		"entity_domain": "mediasmart.io",
+		"skadnetwork_id": "7rz58n8ntl.skadnetwork",
+		"creation_date": "2020-08-19T00:00:00.000Z"
+	}, {
+		"entity_name": "Mintegral International Limited",
+		"entity_domain": "mintegral.com",
+		"skadnetwork_id": "kbd757ywx3.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Moloco, Inc",
+		"entity_domain": "molocoads.com",
+		"skadnetwork_id": "9t245vhmpl.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "O.P VIsion LTD dba persona.ly",
+		"entity_domain": "persona.ly",
+		"skadnetwork_id": "44jx6755aq.skadnetwork",
+		"creation_date": "2020-08-23T00:00:00.000Z"
+	}, {
+		"entity_name": "PubNative GmbH",
+		"entity_domain": "pubnative.net",
+		"skadnetwork_id": "tl55sbb4fm.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "RTB Marketing and Tech Services LTD",
+		"entity_domain": "rtbhouse.com",
+		"skadnetwork_id": "8s468mfl3y.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Realtime Technologies GmbH",
+		"entity_domain": "kayzen.io",
+		"skadnetwork_id": "4468km3ulz.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Remerge GmbH",
+		"entity_domain": "remerge.io",
+		"skadnetwork_id": "2u9pt9hc89.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "ScaleMonk Inc.",
+		"entity_domain": "scalemonk.com",
+		"skadnetwork_id": "av6w8kgt66.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Sift Media, Inc",
+		"entity_domain": "sift.co",
+		"skadnetwork_id": "klf5c3l5u5.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Singular Labs, Inc.",
+		"skadnetwork_id": "hdw39hrw9y.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Singular Labs, Inc.",
+		"skadnetwork_id": "y45688jllp.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Singular Labs, Inc.",
+		"skadnetwork_id": "dzg6xy7pwj.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "SiteScout c/o Centro Inc.",
+		"entity_domain": "https://www.centro.net/",
+		"skadnetwork_id": "3sh42y64q3.skadnetwork",
+		"creation_date": "2020-09-03T12:09:20.000Z"
+	}, {
+		"entity_name": "Smadex S.L",
+		"entity_domain": "smadex.com",
+		"skadnetwork_id": "ppxm28t8ap.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Spotad Ltd.",
+		"entity_domain": "spotad.co",
+		"skadnetwork_id": "f73kdq92p3.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "StartApp Inc",
+		"entity_domain": "startapp.com",
+		"skadnetwork_id": "5l3tpt7t6e.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "The Trade Desk",
+		"entity_domain": "thetradedesk.com",
+		"skadnetwork_id": "uw77j35x4d.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Triapodi LTD.",
+		"entity_domain": "appreciate.mobi",
+		"skadnetwork_id": "mlmmfzh3r3.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "Triapodi LTD.",
+		"entity_domain": "appreciate.mobi",
+		"skadnetwork_id": "6g9af3uyq4.skadnetwork",
+		"creation_date": "2020-08-14T00:00:00.000Z"
+	}, {
+		"entity_name": "BidSlash",
+		"entity_domain": "zynga.com",
+		"skadnetwork_id": "g28c52eehv.skadnetwork",
+		"creation_date": "2021-01-31T00:00:00.000Z"
+	}, {
+		"entity_name": "RhythmOne",
+		"entity_domain": "rhythmone.com",
+		"skadnetwork_id": "pwa73g5rt2.skadnetwork",
+		"creation_date": "2021-03-16T00:00:00.000Z"
+	}, {
+		"entity_name": "Yandex Europe AG",
+		"entity_domain": "yandex.com",
+		"skadnetwork_id": "zq492l623r.skadnetwork",
+		"creation_date": "2021-03-25T00:00:00.000Z"
+	}, {
+		"entity_name": "Bytedance Pte. Ltd",
+		"entity_domain": "pangleglobal.com",
+		"skadnetwork_id": "22mmun2rn5.skadnetwork",
+		"creation_date": "2021-03-30T00:00:00.000Z"
+	}]
 }
