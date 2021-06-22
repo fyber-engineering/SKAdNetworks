@@ -13,5 +13,6 @@
 	"fyber" : "FairBidSDK",
 	"mytarget" :"myTargetSDK",
 	"snap" :"snap",
-	"mintegral" :"mintegral"
+	"mintegral" :"mintegral",
+	"pangle" : "Ads-Global"
 }
