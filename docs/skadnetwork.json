@@ -10,22 +10,27 @@
 		"entity_name": "Aarki Inc",
 		"skadnetwork_id": "4fzdc2evr5.skadnetwork",
 		"creation_date": "2020-08-14T00:00:00.000Z"
-	},{
+	}, {
+		"entity_name": "Bidswitch",
+		"entity_domain": "bidswitch.com",
+		"skadnetwork_id": "294l99pt4k.skadnetwork",
+		"creation_date": "2021-08-29T00:00:00.000Z"
+	}, {
 		"entity_name": "BidEase",
 		"entity_domain": "bidease.com",
 		"skadnetwork_id": "s39g8k73mm.skadnetwork",
 		"creation_date": "2021-06-14T00:00:00.000Z"
-	},{
+	}, {
 		"entity_name": "YouAppi Inc.",
 		"entity_domain": "youappi.com",
 		"skadnetwork_id": "3rd42ekr43.skadnetwork",
 		"creation_date": "2021-06-14T00:00:00.000Z"
-	},{
+	}, {
 		"entity_name": "Snap Inc.",
 		"entity_domain": "snap.com",
 		"skadnetwork_id": "424m5254lk.skadnetwork",
 		"creation_date": "2021-08-22T00:00:00.000Z"
-	},{
+	}, {
 		"entity_name": "Blis Media Ltd",
 		"entity_domain": "blis.com",
 		"skadnetwork_id": "ggvn48r87g.skadnetwork",
