@@ -11,11 +11,6 @@
 		"skadnetwork_id": "4fzdc2evr5.skadnetwork",
 		"creation_date": "2020-08-14T00:00:00.000Z"
 	}, {
-		"entity_name": "Bidswitch",
-		"entity_domain": "bidswitch.com",
-		"skadnetwork_id": "294l99pt4k.skadnetwork",
-		"creation_date": "2021-08-29T00:00:00.000Z"
-	}, {
 		"entity_name": "BidEase",
 		"entity_domain": "bidease.com",
 		"skadnetwork_id": "s39g8k73mm.skadnetwork",
