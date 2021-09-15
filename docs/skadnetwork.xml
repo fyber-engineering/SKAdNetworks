@@ -6,6 +6,10 @@
 	<array>
 		<dict>
 			<key>SKAdNetworkIdentifier</key>
+			<string>bmxgpxpgc.skadnetwork</string>
+		</dict>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
 			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
