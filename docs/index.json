@@ -21,11 +21,16 @@
 			"skadnetwork_id": "bmxgpxpgc.skadnetwork",
 			"creation_date": "2021-09-15T00:00:00.000Z"
 		}, {
-			"entity_name": "BidEase",
+			"entity_name": "Bidease Inc.",
 			"entity_domain": "bidease.com",
 			"skadnetwork_id": "s39g8k73mm.skadnetwork",
 			"creation_date": "2021-06-14T00:00:00.000Z"
 		}, {
+			"entity_name": "Bidease Inc.",
+			"entity_domain": "bidease.com",
+			"skadnetwork_id": "krvm3zuq6h.skadnetwork",
+			"creation_date": "2021-10-07T00:00:00.000Z"
+		},{
 			"entity_name": "BidSwitch GmbH",
 			"entity_domain": "https://www.iponweb.com/",
 			"skadnetwork_id": "294l99pt4k.skadnetwork",
