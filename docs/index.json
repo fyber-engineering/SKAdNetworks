@@ -16,6 +16,11 @@
 			"skadnetwork_id": "p78axxw29g.skadnetwork",
 			"creation_date": "2021-09-19T00:00:00.000Z"
 		},{
+			"entity_name": "My.com B.V",
+			"entity_domain": "https://target.my.com",
+			"skadnetwork_id": "n9x2a789qt.skadnetwork",
+			"creation_date": "2021-11-01T00:00:00.000Z"
+		},{
 			"entity_name": "Stackadapt, Inc.",
 			"entity_domain": "stackadapt.com",
 			"skadnetwork_id": "bmxgpxpgc.skadnetwork",
