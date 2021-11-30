@@ -221,8 +221,12 @@
                 <string>mtkv5xtk9e.skadnetwork</string>
             </dict>
             <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>mtkv5xtk9e.skadnetwork</string>
+            </dict>
+            <dict>
                <key>SKAdNetworkIdentifier</key>
-               <string>n6fk4nfna4.skadnetwork</string>
+               <string>kbmxgpxpgc.skadnetwork</string>
             </dict>
         </array>
     </dict>
