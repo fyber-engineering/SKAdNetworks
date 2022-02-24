@@ -288,6 +288,14 @@
                <key>SKAdNetworkIdentifier</key>
                <string>wg4vff78zm.skadnetwork</string>
             </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>'nzq8sh4pbs.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>dkc879ngq3.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
