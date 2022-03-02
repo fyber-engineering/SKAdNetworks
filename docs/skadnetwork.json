@@ -15,11 +15,16 @@
 		"entity_domain": "http://opera.com/",
 		"skadnetwork_id": "k674qkevps.skadnetwork",
 		"creation_date": "2022-01-04T00:00:00.000Z"
-		},{
+	},{
 		"entity_name": "PubMatic, Inc",
 		"entity_domain": "pubmatic.com",
 		"skadnetwork_id": "k674qkevps.skadnetwork",
 		"creation_date": "2022-01-04T00:00:00.000Z"
+	},{
+		"entity_name": "MediaMath, Inc",
+		"entity_domain": " mediamath.com",
+		"skadnetwork_id": "n6fk4nfna4.skadnetwork",
+		"creation_date": "2022-03-02T00:00:00.000Z"
 	},{
 		"entity_name": "A9.com, Inc",
 		"entity_domain": "amazon.com",
