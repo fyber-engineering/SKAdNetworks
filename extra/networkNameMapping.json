@@ -4,16 +4,16 @@
 	"applovin" : "AppLovinSDK",
 	"chartboost" : "ChartboostSDK",
 	"facebook" : "FBAudienceNetwork",
+	"fyber" : "FairBidSDK",
+	"hyprmx" : "HyprMX",
 	"inmobi" : "InMobiSDK",
 	"iron_source" : "IronSourceSDK",
+	"mintegral" :"mintegral",
+	"mytarget" :"myTargetSDK",
+	"pangle" : "Ads-Global",
+	"snap" :"snap",
 	"tapjoy" : "TapjoySDK",
 	"unityads" : "UnityAds",
 	"verizon" : "Verizon-Ads-StandardEdition",
-	"vungle" : "VungleSDK-iOS",
-	"fyber" : "FairBidSDK",
-	"mytarget" :"myTargetSDK",
-	"snap" :"snap",
-	"mintegral" :"mintegral",
-	"pangle" : "Ads-Global",
-	"hyprmx" : "HyprMX"
+	"vungle" : "VungleSDK-iOS"
 }
