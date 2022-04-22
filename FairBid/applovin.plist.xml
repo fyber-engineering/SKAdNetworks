@@ -300,6 +300,54 @@
                <key>SKAdNetworkIdentifier</key>
                <string>x44k69ngh6.skadnetwork</string>
             </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>52fl2v3hgk.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>x5l83yy675.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string></string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string></string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string></string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string></string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>52fl2v3hgk.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>6g9af3uyq4.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>vcra2ehyfk.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>m5mvw97r93.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>3l6bd9hu43.skadnetwork</string>
+            </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>x5l83yy675.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
