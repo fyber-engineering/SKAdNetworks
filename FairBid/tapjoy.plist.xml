@@ -358,6 +358,10 @@
             </dict>
             <dict>
                 <key>SKAdNetworkIdentifier</key>
+                <string>c3frkrj4fj.skadnetwork</string>
+            </dict>
+            <dict>
+                <key>SKAdNetworkIdentifier</key>
                 <string>a2p9lx4jpn.skadnetwork</string>
             </dict>
         </array>
