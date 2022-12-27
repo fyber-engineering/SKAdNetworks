@@ -348,6 +348,10 @@
                <key>SKAdNetworkIdentifier</key>
                <string>n66cz3y3bx.skadnetwork</string>
             </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>8r8llnkz5a.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
