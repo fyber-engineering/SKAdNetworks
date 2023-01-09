@@ -324,5 +324,10 @@
 		"entity_domain": "pangleglobal.com",
 		"skadnetwork_id": "22mmun2rn5.skadnetwork",
 		"creation_date": "2021-03-30T00:00:00.000Z"
+	}, {
+		"entity_name": "Zoomd",
+		"entity_domain": "zoomd.com",
+		"skadnetwork_id": "8r8llnkz5a.skadnetwork",
+		"creation_date": "2023-01-09T00:00:00.000Z"
 	}]
 }
