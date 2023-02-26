@@ -6,11 +6,16 @@
 			"entity_name": "Adikteev",
 			"skadnetwork_id": "ydx93a7ass.skadnetwork",
 			"creation_date": "2020-08-14T00:00:00.000Z"
-		}, {
+		},{
+			"entity_name": "NASMEDIA Co.,LTD",
+			"entity_domain": "adpacker.co.kr",
+			"skadnetwork_id": "t6d3zquu66.skadnetwork",
+			"creation_date": "2023-02-26T00:00:00.000Z"
+		},{
 			"entity_name": "Aarki Inc",
 			"skadnetwork_id": "4fzdc2evr5.skadnetwork",
 			"creation_date": "2020-08-14T00:00:00.000Z"
-		},{
+		}{
 			"entity_name": "BIGO TECHNOLOGY",
 			"skadnetwork_id": "a8cz6cu7e5.skadnetwork",
 			"creation_date": "2023-02-09T00:00:00.000Z"
