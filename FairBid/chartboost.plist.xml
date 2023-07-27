@@ -444,6 +444,10 @@
 				<key>SKAdNetworkIdentifier</key>
 				<string>252b5q8x7y.skadnetwork</string>
 			</dict>
+			<dict>
+				<key>SKAdNetworkIdentifier</key>
+				<string>z959bm4gru.skadnetwork</string>
+			</dict>
 		</array>
 	</dict>
 </plist>
