@@ -248,6 +248,18 @@
                <key>SKAdNetworkIdentifier</key>
                <string>n6fk4nfna4.skadnetwork</string>
             </dict>
+            <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>mqn7fxpca7.skadnetwork</string>
+            </dict>
+            <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>r45fhb6rf7.skadnetwork</string>
+            </dict>
+            <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>g6gcrrvk4p.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
