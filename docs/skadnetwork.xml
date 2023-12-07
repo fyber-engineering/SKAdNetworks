@@ -310,27 +310,8 @@
 			</dict>
 			<dict>
 				<key>SKAdNetworkIdentifier</key>
-				<string>7ug5zh24hu.skadnetwork</string>
-			</dict>
-			<dict>
-				<key>SKAdNetworkIdentifier</key>
-				<string>3sh42y64q3.skadnetwork</string>
-			</dict>
-			<dict>
-				<key>SKAdNetworkIdentifier</key>
-				<string>22mmun2rn5.skadnetwork</string>
-			</dict>
-			<dict>
-				<key>SKAdNetworkIdentifier</key>
 				<string>2fnua5tdw4.skadnetwork</string>
-			</dict>
-			<dict>
-				<key>SKAdNetworkIdentifier</key>
-				<string>4fzdc2evr5.skadnetwork</string>
-			</dict>
-			<dict>
-				<key>SKAdNetworkIdentifier</key>
-				<string>gvn48r87g.skadnetwork</string>
+			
 			</dict>
 		</array>
 	</dict>
