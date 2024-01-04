@@ -588,6 +588,10 @@
                <key>SKAdNetworkIdentifier</key>
                <string>7fmhfwg9en.skadnetwork</string>
             </dict>
+            <dict>
+               <key>SKAdNetworkIdentifier</key>
+               <string>z24wtl6j62.skadnetwork</string>
+            </dict>
         </array>
     </dict>
 </plist>
