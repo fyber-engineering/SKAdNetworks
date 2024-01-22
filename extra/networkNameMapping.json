@@ -11,10 +11,7 @@
 	"mintegral" :"mintegral",
 	"mytarget" :"myTargetSDK",
 	"pangle" : "Ads-Global",
-	"snap" :"snap",
-	"tapjoy" : "TapjoySDK",
 	"unityads" : "UnityAds",
-	"verizon" : "Verizon-Ads-StandardEdition",
 	"verve" : "HyBid",
 	"vungle" : "VungleSDK-iOS"
 }

@@ -102,12 +102,6 @@
       "creation_date": "2021-06-14T00:00:00.000Z"
     },
     {
-      "entity_name": "Snap Inc.",
-      "entity_domain": "snap.com",
-      "skadnetwork_id": "424m5254lk.skadnetwork",
-      "creation_date": "2021-08-22T00:00:00.000Z"
-    },
-    {
       "entity_name": "Blis Media Ltd",
       "entity_domain": "blis.com",
       "skadnetwork_id": "ggvn48r87g.skadnetwork",
@@ -158,12 +152,6 @@
       "entity_name": "LiquidM",
       "entity_domain": "LiquidM.com",
       "skadnetwork_id": "rx5hdcabgc.skadnetwork",
-      "creation_date": "2020-08-19T00:00:00.000Z"
-    },
-    {
-      "entity_name": "Verizon Media",
-      "entity_domain": "verizon.com",
-      "skadnetwork_id": "e5fvkxwrpn.skadnetwork",
       "creation_date": "2020-08-19T00:00:00.000Z"
     },
     {
