@@ -13,5 +13,6 @@
 	"pangle" : "Ads-Global",
 	"unityads" : "UnityAds",
 	"verve" : "HyBid",
-	"vungle" : "VungleSDK-iOS"
+	"vungle" : "VungleSDK-iOS",
+	"bigoads" : "BigoAds"
 }
