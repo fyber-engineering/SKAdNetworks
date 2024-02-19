@@ -14,5 +14,6 @@
 	"unityads" : "UnityAds",
 	"verve" : "HyBid",
 	"vungle" : "VungleSDK-iOS",
-	"bigoads" : "BigoAds"
+	"bigoads" : "BigoAds",
+	"bidmachine": "BidMachine"
 }
