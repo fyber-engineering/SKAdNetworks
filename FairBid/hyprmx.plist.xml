@@ -3,6 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>SKAdNetworkItems</key>
-    <array/>
+    <array>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>nu4557a4je.skadnetwork</string>
+      </dict>
+    </array>
   </dict>
 </plist>
