@@ -332,6 +332,10 @@
         <key>SKAdNetworkIdentifier</key>
         <string>qu637u8glc.skadnetwork</string>
       </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>55y65gfgn7.adattributionkit</string>
+      </dict>
     </array>
   </dict>
 </plist>
