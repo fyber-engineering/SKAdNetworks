@@ -326,15 +326,15 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>55y65gfgn7.adattributionkit</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>qu637u8glc.skadnetwork</string>
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
         <string>vhf287vqwu.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>55y65gfgn7.skadnetwork</string>
       </dict>
     </array>
   </dict>
