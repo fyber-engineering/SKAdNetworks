@@ -22,10 +22,6 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>5a6flpkh64.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>p78axxw29g.skadnetwork</string>
       </dict>
       <dict>
@@ -50,10 +46,6 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>f38h382jlk.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>hs6bdukanm.skadnetwork</string>
       </dict>
       <dict>
@@ -70,15 +62,7 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>t38b2kh725.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>7ug5zh24hu.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
-        <string>n6fk4nfna4.skadnetwork</string>
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
@@ -98,10 +82,6 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>klf5c3l5u5.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>ppxm28t8ap.skadnetwork</string>
       </dict>
       <dict>
@@ -111,10 +91,6 @@
       <dict>
         <key>SKAdNetworkIdentifier</key>
         <string>e5fvkxwrpn.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
-        <string>zq492l623r.skadnetwork</string>
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
@@ -162,10 +138,6 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>ecpz2srf59.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>cp8zw746q7.skadnetwork</string>
       </dict>
       <dict>
@@ -186,10 +158,6 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>eh6m2bh4zr.skadnetwork</string>
-      </dict>
-      <dict>
-        <key>SKAdNetworkIdentifier</key>
         <string>pwa73g5rt2.skadnetwork</string>
       </dict>
       <dict>
@@ -198,7 +166,11 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
-        <string>4pfyvq9l8r.skadnetwork</string>
+        <string>su67r6k2v3.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>Tl55sbb4fm.skadnetwork</string>
       </dict>
     </array>
   </dict>
