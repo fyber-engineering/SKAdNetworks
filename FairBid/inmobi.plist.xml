@@ -334,7 +334,15 @@
       </dict>
       <dict>
         <key>SKAdNetworkIdentifier</key>
+        <string>a8cz6cu7e5.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
         <string>55y65gfgn7.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>cwn433xbcr.skadnetwork</string>
       </dict>
     </array>
   </dict>
