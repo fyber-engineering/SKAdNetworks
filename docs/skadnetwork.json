@@ -438,6 +438,12 @@
       "entity_domain": "kaden.ai",
       "skadnetwork_id": "x44k69ngh6.skadnetwork",
       "creation_date": "2024-03-26T00:00:00.000Z"
+    },
+     {
+      "entity_name": "Amazon Advertising LLC",
+      "entity_domain": "advertising.amazon.com",
+      "skadnetwork_id": "vhf287vqwu.skadnetwork",
+      "creation_date": "2024-10-09T00:00:00.000Z"
     }
   ]
 } 
