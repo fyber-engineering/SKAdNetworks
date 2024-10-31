@@ -740,6 +740,10 @@
         <key>SKAdNetworkIdentifier</key>
         <string>qwpu75vrh2.skadnetwork</string>
       </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>cwn433xbcr.skadnetwork</string>
+      </dict>
     </array>
   </dict>
 </plist>
