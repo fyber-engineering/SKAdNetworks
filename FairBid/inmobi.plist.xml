@@ -344,6 +344,22 @@
         <key>SKAdNetworkIdentifier</key>
         <string>cwn433xbcr.skadnetwork</string>
       </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>dbu4b84rxf.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>fq6vru337s.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>mj797d8u6f.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>87u5trcl3r.skadnetwork</string>
+      </dict>
     </array>
   </dict>
 </plist>
