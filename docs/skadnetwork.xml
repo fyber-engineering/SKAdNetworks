@@ -324,6 +324,10 @@
 				<key>SKAdNetworkIdentifier</key>
 				<string>x8yj322td6.skadnetwork</string>
 			</dict>
+			<dict>
+				<key>SKAdNetworkIdentifier</key>
+				<string>tskbem2b5g.skadnetwork</string>
+			</dict>
 		</array>
 	</dict>
 </plist>
