@@ -456,6 +456,12 @@
       "entity_domain": "iion.io",
       "skadnetwork_id": "x8yj322td6.skadnetwork",
       "creation_date": "2025-04-08T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Voodoo",
+      "entity_domain": "voodoo.io",
+      "skadnetwork_id": "tskbem2b5g.skadnetwork",
+      "creation_date": "2025-04-23T00:00:00.000Z"
     }
   ]
 }
