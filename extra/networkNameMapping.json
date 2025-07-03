@@ -8,12 +8,12 @@
 	"hyprmx" : "HyprMX",
 	"inmobi" : "InMobiSDK",
 	"iron_source" : "IronSourceSDK",
-	"mintegral" :"mintegral",
+	"mintegral" :"MintegralAdSDK",
 	"mytarget" :"myTargetSDK",
 	"pangle" : "Ads-Global",
 	"unityads" : "UnityAds",
 	"verve" : "HyBid",
-	"vungle" : "VungleSDK-iOS",
+	"vungle" : "VungleAds",
 	"bigoads" : "BigoAds",
 	"bidmachine": "BidMachine"
 }
