@@ -1,5 +1,4 @@
 {
-	"adcolony" : "AdColony",
 	"admob" : "Google-Mobile-Ads-SDK",
 	"applovin" : "AppLovinSDK",
 	"chartboost" : "ChartboostSDK",
@@ -15,5 +14,4 @@
 	"verve" : "HyBid",
 	"vungle" : "VungleAds",
 	"bigoads" : "BigoAds",
-	"bidmachine": "BidMachine"
 }
