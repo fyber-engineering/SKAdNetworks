@@ -5,6 +5,7 @@
   "skadnetwork_ids": [
     {
       "entity_name": "Adikteev",
+      "entity_domain": "adikteev.com",
       "skadnetwork_id": "ydx93a7ass.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
@@ -16,22 +17,25 @@
     },
     {
       "entity_name": "Aarki Inc",
+      "entity_domain": "aarki.com",
       "skadnetwork_id": "4fzdc2evr5.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
     {
       "entity_name": "BIGO TECHNOLOGY",
+      "entity_domain": "bigo.tv",
       "skadnetwork_id": "a8cz6cu7e5.skadnetwork",
       "creation_date": "2023-02-09T00:00:00.000Z"
     },
     {
       "entity_name": "Edge Solutions LTD",
+      "entity_domain": "edge226.com",
       "skadnetwork_id": "9nlqeag3gk.skadnetwork",
       "creation_date": "2022-12-01T00:00:00.000Z"
     },
     {
       "entity_name": "Opera Software Ireland Ltd",
-      "entity_domain": "http://opera.com/",
+      "entity_domain": "opera.com",
       "skadnetwork_id": "a2p9lx4jpn.skadnetwork",
       "creation_date": "2022-01-04T00:00:00.000Z"
     },
@@ -42,8 +46,8 @@
       "creation_date": "2022-01-09T00:00:00.000Z"
     },
     {
-      "entity_name": "Adelphic, LLC",
-      "entity_domain": "www.adelphic.com",
+      "entity_name": "Viant",
+      "entity_domain": "viantinc.com",
       "skadnetwork_id": "c3frkrj4fj.skadnetwork",
       "creation_date": "2022-05-25T00:00:00.000Z"
     },
@@ -91,7 +95,7 @@
     },
     {
       "entity_name": "BidSwitch GmbH",
-      "entity_domain": "https://www.iponweb.com/",
+      "entity_domain": "bidswitch.com",
       "skadnetwork_id": "294l99pt4k.skadnetwork",
       "creation_date": "2021-08-31T00:00:00.000Z"
     },
@@ -139,6 +143,7 @@
     },
     {
       "entity_name": "Beeswax.io Corporation",
+      "entity_domain": "beeswax.com",
       "skadnetwork_id": "c6k4g5qg8m.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
@@ -174,6 +179,7 @@
     },
     {
       "entity_name": "Chartboost, Inc",
+      "entity_domain": "chartboost.com",
       "skadnetwork_id": "f38h382jlk.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
@@ -185,11 +191,13 @@
     },
     {
       "entity_name": "Criteo SAS",
+      "entity_domain": "criteo.com",
       "skadnetwork_id": "hs6bdukanm.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
     {
       "entity_name": "Criteo SAS (Manage)",
+      "entity_domain": "manage.com",
       "skadnetwork_id": "9rd848q2bz.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
@@ -213,6 +221,7 @@
     },
     {
       "entity_name": "Inmobi",
+      "entity_domain": "inmobi.com",
       "skadnetwork_id": "wzmmz9fp6w.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
@@ -229,6 +238,7 @@
     },
     {
       "entity_name": "Liftoff Mobile, Inc",
+      "entity_domain": "liftoff.io",
       "skadnetwork_id": "7ug5zh24hu.skadnetwork",
       "creation_date": "2020-08-14T00:00:00.000Z"
     },
@@ -321,7 +331,7 @@
     },
     {
       "entity_name": "SiteScout c/o Centro Inc.",
-      "entity_domain": "https://www.centro.net/",
+      "entity_domain": "centro.net",
       "skadnetwork_id": "3sh42y64q3.skadnetwork",
       "creation_date": "2020-09-03T12:09:20.000Z"
     },
@@ -462,6 +472,84 @@
       "entity_domain": "voodoo.io",
       "skadnetwork_id": "tskbem2b5g.skadnetwork",
       "creation_date": "2025-04-23T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Arpeely",
+      "entity_domain": "arpeely.com",
+      "skadnetwork_id": "cp8zw746q7.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "EngageBDR",
+      "entity_domain": "engagebdr.com",
+      "skadnetwork_id": "cj5566h2ga.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Bulbit Inc (Adways)",
+      "entity_domain": "adways.com",
+      "skadnetwork_id": "578prtvx9j.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Verizon",
+      "entity_domain": "verizonmedia.com",
+      "skadnetwork_id": "e5fvkxwrpn.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "WidenAd",
+      "entity_domain": "widenad.com",
+      "skadnetwork_id": "r45fhb6rf7.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Conversant",
+      "entity_domain": "conversantmedia.com",
+      "skadnetwork_id": "mqn7fxpca7.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "MEmob Plus",
+      "entity_domain": "memob.com",
+      "skadnetwork_id": "g6gcrrvk4p.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Quantcast",
+      "entity_domain": "quantcast.com",
+      "skadnetwork_id": "xga6mpmplv.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Sportradar",
+      "entity_domain": "sportradar.com",
+      "skadnetwork_id": "qu637u8glc.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Hybrid",
+      "entity_domain": "hybrid.ai",
+      "skadnetwork_id": "w9q455wk68.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Mobupps",
+      "entity_domain": "mobupps.com",
+      "skadnetwork_id": "275upjj5gd.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Zemanta Inc OpenRTB",
+      "entity_domain": "zemanta.com",
+      "skadnetwork_id": "97r2b46745.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Display & Video 360",
+      "entity_domain": "google.com",
+      "skadnetwork_id": "cstr6suwn9.skadnetwork",
+      "creation_date": "2025-08-11T00:00:00.000Z"
     }
   ]
 }
