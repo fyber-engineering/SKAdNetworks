@@ -14,5 +14,6 @@
 	"verve" : "HyBid",
 	"vungle" : "VungleAds",
 	"bigoads" : "BigoAds",
-  "ogury"   : "OgurySdk"
+	"ogury"   : "OgurySdk",
+	"amazon": "AmazonSDK"
 }
