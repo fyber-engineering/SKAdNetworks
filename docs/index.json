@@ -550,6 +550,12 @@
       "entity_domain": "google.com",
       "skadnetwork_id": "cstr6suwn9.skadnetwork",
       "creation_date": "2025-08-11T00:00:00.000Z"
+    },
+    {
+      "entity_name": "Applovin",
+      "entity_domain": "applovin.com",
+      "skadnetwork_id": "ludvb6z3bs.skadnetwork",
+      "creation_date": "2025-11-24T00:00:00.000Z"
     }
   ]
 }
